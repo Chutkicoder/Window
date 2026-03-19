@@ -30,8 +30,8 @@ export class App implements OnInit {
 
 
 
-
+//cd api-demo
 //npm install -g @angular/cli
-//ng new api-demo
+//npm install
 //ng serve -o
 //After running this Ctrl+s on app.html the the output will show
