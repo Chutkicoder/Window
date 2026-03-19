@@ -12,5 +12,5 @@ export class App {}
 
 /*npm install -g @angular/cli
 cd todo-app
-
+npm install
 ng serve*/
