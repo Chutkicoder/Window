@@ -21,7 +21,7 @@ export class App {}
 
 
 
-/*cd AngularCRUDApplication
+/*cd user-form-demo
 npm install
 Case:   npm install -g json-server
 Case:   json-server --watch db.json --port 3000
