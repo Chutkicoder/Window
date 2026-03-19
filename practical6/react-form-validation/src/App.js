@@ -162,7 +162,7 @@ function App() {
 
 export default App
 
-
+//npm install
 //cd react-form-validation
 //npm start
 //npm i yup
